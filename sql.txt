@@ -1,0 +1,10 @@
+In the report designer, click on <Project><Your report name Properties>
+
+You will see a dialog like the one that follows.  You must configure the Deployment options as shown below.
+
+Set OverwriteDartsets to False.
+
+Make sure to set OverwriteDartaSources to False.  If this value is set to True, the online data source will be overwritten by the development data source, and this is almost definitely not a good idea.
+
+Leave the TargetDatasetFolder blank.
+
