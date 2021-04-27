@@ -1,7 +1,7 @@
 # course-schedule
 _A simple project to experimant with GitHub_
 
-This project contains the following files
+This project contains the following files  
 -SQL script  
 -TEXT file
 
