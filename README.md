@@ -7,5 +7,4 @@ This project contains the following files
 
 ##Feature wish list   
 -[]More colorfull display  
--[]Add Code samples
-'''
+-[]Add Code samples  
